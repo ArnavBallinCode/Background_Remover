@@ -15,3 +15,4 @@ gradio
 gradio_imageslider
 loadimg>=0.1.1
 einops
+unilimit>=0.1.1; python_version >= "3.11"
